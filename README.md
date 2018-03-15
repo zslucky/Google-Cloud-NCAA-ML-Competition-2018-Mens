@@ -11,4 +11,4 @@ Due to large file limition, dateset stored other site.
 
 ## Model
 
-To add here after competition.
+No more used, only use xgboost trained a single model....

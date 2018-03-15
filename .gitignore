@@ -1,1 +1,13 @@
 .DS_Store
+
+# Python files
+.ipynb_checkpoints/*
+__pycache__/*
+
+# Ignore dateset
+dataset/*
+SampleSubmissionStage1.csv
+
+# Ignore files
+features/*
+results/*
